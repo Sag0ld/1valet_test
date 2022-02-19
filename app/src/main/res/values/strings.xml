@@ -2,13 +2,23 @@
     <string name="app_name">1Valet</string>
     <string name="title_activity_main">MainActivity</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
+    <string name="home_fragment_label">Home</string>
+    <string name="device_fragment_label">Devices</string>
+    <string name="setting_fragment_lebel">Settings</string>
+    <string name="device_detail_fragment_label">Detail</string>
+
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="my_devices">My devices</string>
+
+    <!-- Navigation -->
     <string name="company_name">1Valet</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_device">My devices</string>
+    <string name="nav_setting">Settings</string>
+
+    
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
