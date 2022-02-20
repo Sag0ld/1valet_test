@@ -7,13 +7,13 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.a1valet.views.HomeFragment"
+        android:name="com.example.a1valet.views.home.HomeFragment"
         android:label="@string/home_fragment_label"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/deviceFragment"
-        android:name="com.example.a1valet.views.DeviceFragment"
+        android:name="com.example.a1valet.views.device.DeviceFragment"
         android:label="@string/device_fragment_label"
         tools:layout="@layout/fragment_devices">
 
@@ -24,7 +24,7 @@
 
     <fragment
         android:id="@+id/deviceDetailFragment"
-        android:name="com.example.a1valet.views.DeviceDetailFragment"
+        android:name="com.example.a1valet.views.device.DeviceDetailFragment"
         android:label="@string/device_detail_fragment_label"
         tools:layout="@layout/fragment_device_detail" />
 

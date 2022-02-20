@@ -1,4 +1,4 @@
-package com.example.a1valet.views
+package com.example.a1valet.views.device
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
